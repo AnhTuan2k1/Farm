@@ -1,0 +1,4 @@
+Type,Name,HarvestInterval,MaxYield,ProductValue,SeedPrice,Lifetime
+Crop,Tomato,10,40,5,30,60
+Crop,Blueberry,15,40,8,50,60
+Animal,DairyCow,30,100,15,100,60
