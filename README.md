@@ -1,6 +1,6 @@
 # Farm
 Farm Game
-# 🧱 Project Structure - Clean Architecture for Unity Game
+# 🧱 Project Structure - Clean Architecture
 
 ## 📌 Domain Layer (Thuần C#, không phụ thuộc vào framework nào)
 
