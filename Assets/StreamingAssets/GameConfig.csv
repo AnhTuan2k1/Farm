@@ -1,7 +1,7 @@
 Key,Value
 LandExpansionCost,500
 WorkerHireCost,500
-WorkerSpeedSeconds,3
+WorkerSpeedSeconds,120
 UpgradeCost,500
 UpgradeMultiplier,0.5
 StartGold,567

@@ -306,6 +306,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShopOverlayCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 397561809769261766, guid: 3da55786e41d43c4ba257a29a91a94ea, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 795015418846935833, guid: 3da55786e41d43c4ba257a29a91a94ea, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -389,6 +393,10 @@ PrefabInstance:
     - target: {fileID: 6396179542748637236, guid: 3da55786e41d43c4ba257a29a91a94ea, type: 3}
       propertyPath: m_AnchorMin.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6927756367175453306, guid: 3da55786e41d43c4ba257a29a91a94ea, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7968048104963524005, guid: 3da55786e41d43c4ba257a29a91a94ea, type: 3}
       propertyPath: m_Pivot.x
@@ -789,6 +797,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5800073178331119848, guid: 05768efd0402691479d4358af92ffe4a, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8624927958666612675, guid: 05768efd0402691479d4358af92ffe4a, type: 3}
       propertyPath: m_Name
       value: LandPlotPurchaseCanvas
@@ -897,6 +909,10 @@ PrefabInstance:
     - target: {fileID: 8498770957129987273, guid: 75d984accd704394193fae2f36004476, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9159852935875736416, guid: 75d984accd704394193fae2f36004476, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1104,6 +1120,10 @@ PrefabInstance:
     - target: {fileID: 4361320819514990817, guid: 610449d75bf2d124e9fabdc83c30a423, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373296624843312771, guid: 610449d75bf2d124e9fabdc83c30a423, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8092432032358884629, guid: 610449d75bf2d124e9fabdc83c30a423, type: 3}
       propertyPath: m_Name
@@ -1330,6 +1350,14 @@ PrefabInstance:
     - target: {fileID: 2355875451178882078, guid: e5706c927a8058f46bdcf6542ae23eb8, type: 3}
       propertyPath: m_Name
       value: UIOverlayCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355875451178882078, guid: e5706c927a8058f46bdcf6542ae23eb8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557714253562368349, guid: e5706c927a8058f46bdcf6542ae23eb8, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
